@@ -7,4 +7,7 @@ Smart way to stringify objects, arrays, maps to make it short and readable
 See specs for examples of formatting
 
 # Install
+Use Node v5 or higher.
+
 npm install
+

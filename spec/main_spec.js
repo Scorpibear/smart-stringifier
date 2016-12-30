@@ -1,3 +1,5 @@
+"use strict";
+
 describe('smartStringifier', function() {
   const smartStringifier = require('../index.js');
   describe("stringify", function() {

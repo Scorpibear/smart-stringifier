@@ -1,3 +1,5 @@
+"use strict";
+
 function stringify(obj, outline) {
   outline = outline || 0;
   if(obj instanceof Map) {
