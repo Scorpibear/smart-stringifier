@@ -13,12 +13,12 @@ Here is an example of smartStringifier.stringify:
        {"best": "Nf3", "e": {"v": 0.58, "d": 34}, "pgn": ["e4","b6","d4","g6"]},
        {"best": "h4", "e": {"v": 0.58, "d": 34}, "pgn": ["e4","g6","d4","b6"]},
        {"best": "h4", "e": {"v": 0.75, "d": 30}, "pgn": ["d4","g6","e4","b6"]},
-       {"best": "h4", "e": {"v": 0.75, "d": 30}, "pgn": ["d4","b6","e4","g6"]}]]]`
+       {"best": "h4", "e": {"v": 0.75, "d": 30}, "pgn": ["d4","b6","e4","g6"]}]]]
 
-See specs for other examples of formatting
+See spec for other examples of formatting
 
 # Install
-Use Node v5 or higher.
+Use Node v5, v6, v7 or higher.
 
     npm install
 
