@@ -20,5 +20,9 @@ See specs for other examples of formatting
 # Install
 Use Node v5 or higher.
 
-npm install
+    npm install
+
+# Usage
+    const smartStringifier = require('smart-stringifier');
+    let strOutput = smartStringifier.stringify(jsObjectOrMapOrArrayOrAnythingElse);
 
